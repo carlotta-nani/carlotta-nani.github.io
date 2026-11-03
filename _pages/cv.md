@@ -9,9 +9,12 @@ author_profile: true
 
 **PhD in Economics**, Geneva Graduate Institute, (2018–2025)<br>
   *Summa Cum Laude.* Supervisor: Prof. Lore Vandewalle
+  
 **Visiting Scholar in Public Policy**, New York University, (2023)<br>
   Supervisor: Prof. Jonathan Morduch
+  
 **MSc in International Economics**, Geneva Graduate Institute, (2015–2017)
+
 **BSc in Economics and Finance**, University of Bologna, (2011–2015)
 
 ## Experience
