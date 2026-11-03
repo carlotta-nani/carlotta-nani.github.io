@@ -1,0 +1,74 @@
+{% comment %}
+  Photo carousel.
+  Usage in a page:  {% include carousel.html set="landscapes" %}
+  The photos and captions for each set are listed in _data/fieldwork.yml,
+  and the image files live in images/fieldwork/.
+{% endcomment %}
+{% include base_path %}
+{% assign photos = site.data.fieldwork[include.set] %}
+<div class="carousel" data-carousel tabindex="0" aria-roledescription="carousel" aria-label="Photo carousel">
+  <div class="carousel__stage">
+    {% for p in photos %}
+    <figure class="carousel__slide{% if forloop.first %} is-active{% endif %}" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ photos.size }}">
+      <img src="{{ base_path }}/images/fieldwork/{{ p.file }}" alt="{{ p.caption | default: 'Fieldwork photo' | escape }}" loading="lazy" />
+    </figure>
+    {% endfor %}
+    <button class="carousel__btn carousel__btn--prev" type="button" aria-label="Previous photo">&#10094;</button>
+    <button class="carousel__btn carousel__btn--next" type="button" aria-label="Next photo">&#10095;</button>
+  </div>
+  <div class="carousel__bar">
+    <span class="carousel__caption" aria-live="polite"></span>
+    <span class="carousel__count"></span>
+  </div>
+  <script type="application/json" class="carousel__captions">[{% for p in photos %}{{ p.caption | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]</script>
+</div>
+
+<style>
+  .carousel { margin: 1.5em 0 2.5em; outline: none; }
+  .carousel__stage { position: relative; aspect-ratio: 4 / 3; background: var(--global-thead-color, #eef3f2); border-radius: 6px; overflow: hidden; }
+  .carousel__slide { position: absolute; inset: 0; margin: 0; display: none; }
+  .carousel__slide.is-active { display: block; }
+  .carousel__slide img { width: 100%; height: 100%; object-fit: contain; display: block; }
+  .carousel__btn { position: absolute; top: 50%; transform: translateY(-50%); width: 2.6em; height: 2.6em; border: 0; border-radius: 50%;
+    background: rgba(255,255,255,.85); color: var(--global-base-color, #1f5c5c); font-size: 1em; cursor: pointer; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+  .carousel__btn:hover { background: #fff; }
+  .carousel__btn--prev { left: .6em; }
+  .carousel__btn--next { right: .6em; }
+  .carousel__bar { display: flex; justify-content: space-between; gap: 1em; padding: .5em .2em 0; font-size: .85em; color: var(--global-text-color-light, #5f6e6c); }
+  .carousel__caption { font-style: italic; }
+  .carousel__count { white-space: nowrap; }
+</style>
+
+<script>
+  (function () {
+    document.querySelectorAll('[data-carousel]:not([data-ready])').forEach(function (c) {
+      c.setAttribute('data-ready', '');
+      var slides = c.querySelectorAll('.carousel__slide');
+      var captions = JSON.parse(c.querySelector('.carousel__captions').textContent);
+      var capEl = c.querySelector('.carousel__caption'), countEl = c.querySelector('.carousel__count');
+      var i = 0;
+      function show(n) {
+        slides[i].classList.remove('is-active');
+        i = (n + slides.length) % slides.length;
+        slides[i].classList.add('is-active');
+        capEl.textContent = captions[i] || '';
+        countEl.textContent = (i + 1) + ' / ' + slides.length;
+      }
+      c.querySelector('.carousel__btn--prev').addEventListener('click', function () { show(i - 1); });
+      c.querySelector('.carousel__btn--next').addEventListener('click', function () { show(i + 1); });
+      c.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowLeft') show(i - 1);
+        if (e.key === 'ArrowRight') show(i + 1);
+      });
+      var x0 = null;
+      c.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+      c.addEventListener('touchend', function (e) {
+        if (x0 === null) return;
+        var dx = e.changedTouches[0].clientX - x0;
+        if (Math.abs(dx) > 40) show(dx < 0 ? i + 1 : i - 1);
+        x0 = null;
+      });
+      show(0);
+    });
+  })();
+</script>
