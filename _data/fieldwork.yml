@@ -1,0 +1,134 @@
+# Photos for the Fieldwork page carousels.
+# To change a caption, edit the text after 'caption:'. Leave it empty ("") for no caption.
+
+landscapes:
+  - file: landscapes/01-curious-eyes.jpg
+    caption: "Curious eyes"
+  - file: landscapes/02.jpg
+    caption: ""
+  - file: landscapes/03.jpg
+    caption: ""
+  - file: landscapes/04.jpg
+    caption: ""
+  - file: landscapes/05.jpg
+    caption: ""
+  - file: landscapes/06-guava-floating-market-barisal.jpg
+    caption: "Guava floating market, Barisal"
+  - file: landscapes/07-guava-floating-market-barisal.jpg
+    caption: "Guava floating market, Barisal"
+  - file: landscapes/08.jpg
+    caption: ""
+  - file: landscapes/09.jpg
+    caption: ""
+  - file: landscapes/10.jpg
+    caption: ""
+  - file: landscapes/11.jpg
+    caption: ""
+  - file: landscapes/12.jpg
+    caption: ""
+  - file: landscapes/13.jpg
+    caption: ""
+  - file: landscapes/14.jpg
+    caption: ""
+  - file: landscapes/15-a-magic-spot-in-noakhali.jpg
+    caption: "A magic spot in Noakhali"
+  - file: landscapes/16.jpg
+    caption: ""
+  - file: landscapes/17.jpg
+    caption: ""
+  - file: landscapes/18.jpg
+    caption: ""
+  - file: landscapes/19.jpg
+    caption: ""
+  - file: landscapes/20.jpg
+    caption: ""
+  - file: landscapes/21.jpg
+    caption: ""
+  - file: landscapes/22-cooks-preparing-lunch-kusthia.jpg
+    caption: "Cooks preparing lunch, Kusthia"
+  - file: landscapes/23-fresh-paratha-kusthia.jpg
+    caption: "Fresh paratha, Kusthia"
+  - file: landscapes/24.jpg
+    caption: ""
+  - file: landscapes/25-shingara-street-vendor.jpg
+    caption: "Shingara street vendor"
+  - file: landscapes/26-tea-plantation-in-sylhet.jpg
+    caption: "Tea Plantation in Sylhet"
+  - file: landscapes/27-sylhet.jpg
+    caption: "Sylhet"
+  - file: landscapes/28-buriganga-river-puran-dhaka.jpg
+    caption: "Buriganga River, Puran Dhaka"
+  - file: landscapes/29-puran-dhaka.jpg
+    caption: "Puran Dhaka"
+  - file: landscapes/30.jpg
+    caption: ""
+  - file: landscapes/31.jpg
+    caption: ""
+  - file: landscapes/32-banani-dhaka.jpg
+    caption: "Banani, Dhaka"
+  - file: landscapes/33-cha-at-the-street-corner-dhaka.jpg
+    caption: "Cha at the street corner, Dhaka"
+  - file: landscapes/34-school-bus.jpg
+    caption: "School bus"
+  - file: landscapes/35.jpg
+    caption: ""
+  - file: landscapes/36-eid-preparations-in-mirpur.jpg
+    caption: "Eid preparations in Mirpur"
+  - file: landscapes/37-gulshan-dhaka.jpg
+    caption: "Gulshan, Dhaka"
+  - file: landscapes/38.jpg
+    caption: ""
+  - file: landscapes/39.jpg
+    caption: ""
+  - file: landscapes/40.jpg
+    caption: ""
+  - file: landscapes/41.jpg
+    caption: ""
+  - file: landscapes/42-monsoon-in-mirpur.jpg
+    caption: "Monsoon in Mirpur"
+
+fieldteam:
+  - file: fieldteam/01-taking-notes-with-an-audience.jpg
+    caption: "Taking notes with an audience"
+  - file: fieldteam/02-looking-for-the-survey-location-barisal.jpg
+    caption: "Looking for the survey location, Barisal"
+  - file: fieldteam/03-survey-ongoing.jpg
+    caption: "Survey ongoing"
+  - file: fieldteam/04-survey-ongoing.jpg
+    caption: "Survey ongoing"
+  - file: fieldteam/05-playing-the-idm-game.jpg
+    caption: "Playing the IDM game"
+  - file: fieldteam/06-while-the-interviews-are-ongoing.jpg
+    caption: "While the interviews are ongoing"
+  - file: fieldteam/07-afterwork-dudcha-noakhali.jpg
+    caption: "Afterwork dudcha, Noakhali"
+  - file: fieldteam/08-at-tarash-bhaban-pabna.jpg
+    caption: "At Tarash Bhaban, Pabna"
+  - file: fieldteam/09-visiting-tagore-lodge-in-between-surveys.jpg
+    caption: "Visiting Tagore Lodge in between surveys"
+  - file: fieldteam/10.jpg
+    caption: ""
+  - file: fieldteam/11-fresh-coconut.jpg
+    caption: "Fresh coconut"
+  - file: fieldteam/12.jpg
+    caption: ""
+  - file: fieldteam/13.jpg
+    caption: ""
+  - file: fieldteam/14.jpg
+    caption: ""
+  - file: fieldteam/15.jpg
+    caption: ""
+  - file: fieldteam/16.jpg
+    caption: ""
+  - file: fieldteam/17-partners-in-crime.jpg
+    caption: "Partners in crime"
+  - file: fieldteam/18-celebrating-the-end-of-the-data-collection.jpg
+    caption: "Celebrating the end of the data collection"
+  - file: fieldteam/19-ashraf-manges-also-the-cutting-of-the-cake.jpg
+    caption: "Ashraf manages also the cutting of the cake"
+  - file: fieldteam/20.jpg
+    caption: ""
+  - file: fieldteam/21-celebrating-with-mamun.jpg
+    caption: "Celebrating with Mamun"
+  - file: fieldteam/22-dri-team.jpg
+    caption: "DRI team"
