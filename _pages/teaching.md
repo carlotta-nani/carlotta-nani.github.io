@@ -17,7 +17,7 @@ author_profile: true
 
 **Teaching Assistant**, Geneva Graduate Institute
 - Statistics for International Relations (MA course), 2024
-- DGE Models (MA course), 2018
+- DSGE Models (MA course), 2018
 
 **Smith College in Geneva**
 - Research mentoring (BSc course), 2019 and 2023
