@@ -7,8 +7,6 @@ author_profile: true
 
 ## Education
 
-## Education
-
 * **PhD in Economics**, Geneva Graduate Institute, (2018–2025)<br>
   *Summa Cum Laude.* Supervisor: Prof. Lore Vandewalle
 * **Visiting Scholar in Public Policy**, New York University, (2023)<br>
