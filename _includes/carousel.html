@@ -24,7 +24,7 @@
 </div>
 
 <style>
-  .carousel { margin: 1.5em 0 2.5em; outline: none; }
+  .carousel { margin: 1.5em auto 2.5em; outline: none; max-width: min(100%, 680px, calc(65vh * 4 / 3)); }
   .carousel__stage { position: relative; aspect-ratio: 4 / 3; background: var(--global-thead-color, #eef3f2); border-radius: 6px; overflow: hidden; }
   .carousel__slide { position: absolute; inset: 0; margin: 0; display: none; }
   .carousel__slide.is-active { display: block; }
