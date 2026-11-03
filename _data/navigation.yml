@@ -7,18 +7,18 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
- main:
+main:
+  - title: "CV"
+    url: /cv/
+    
   - title: "Research"
     url: /research/
+    
+  - title: "Blog posts"
+    url: /blog-posts/
     
   - title: "Teaching and Workshops"
     url: /teaching/
     
   - title: "Fieldwork"
     url: /fieldwork/
-    
-  - title: "Blog posts"
-    url: /blog-posts/
-    
-  - title: "CV"
-    url: /cv/
