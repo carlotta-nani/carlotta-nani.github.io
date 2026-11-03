@@ -5,19 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Workshops and trainings
+
+**Systematization of Statistical Data and Impact Assessments**, WIPO [Committee on Development and Intellectual Property (CDIP)](https://www.wipo.int/en/web/cdip), 2025
+- Contributed to the development and in-person delivery of training modules for national IP offices of Bhutan, Côte d'Ivoire, El Salvador and Indonesia
+
+**[Women and IP Symposium](https://www.wipo.int/en/web/women/symposium/2026)**, WIPO IPGAP, 2026
+- Workshop on statistical indicators to measure women's participation in innovation
+
 ## Teaching
 
-**Teaching assistant**, Geneva Graduate Institute (IHEID)
+**Teaching Assistant**, Geneva Graduate Institute
 - Statistics for International Relations (MA course), 2024
 - DGE Models (MA course), 2018
 
-**Research mentor**, Smith College in Geneva
+**Smith College in Geneva**
 - Research mentoring (BSc course), 2019 and 2023
-
-## Workshops and trainings
-
-**Women's participation in IP and innovation**, WIPO, 2025  
-I developed this module and delivered it in person for national offices of Bhutan and Côte d'Ivoire, as part of the training on Systematization of Statistical Data and the Design and Implementation of a Methodology for Developing Impact Assessments on the Use of the Intellectual Property System, under the WIPO [Committee on Development and Intellectual Property (CDIP)](https://www.wipo.int/en/web/cdip).
-
-**[Women and IP Symposium](https://www.wipo.int/en/web/women/symposium/2026)**, WIPO, 2026  
-Presentation on tools to obtain statistical indicators and sex-disaggregated data.
