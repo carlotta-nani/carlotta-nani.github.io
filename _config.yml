@@ -97,7 +97,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : og-image.png   # Social media default site image (lives in /images/)
+og_image                 : og-image-2026.png   # Social media default site image (lives in /images/)
 og_description           : "Applied economist working on gender, innovation and development. PhD in Economics, Geneva Graduate Institute."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
