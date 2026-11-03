@@ -12,7 +12,7 @@ site_theme               : "teal" # The available themes options are "default", 
 title                    : "Carlotta Nani"
 title_separator          : "-"
 name                     : &name "Carlotta Nani"
-description              : &description "Carlotta Nani is an economist working on development and social issues. PhD in Economics, Geneva Graduate Institute."
+description              : &description "I am an economist working on development and social issues. PhD in Economics, Geneva Graduate Institute."
 url                      : https://carlotta-nani.github.io
 baseurl                  : ""
 repository               : "carlotta-nani/carlotta-nani.github.io"
@@ -22,7 +22,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Carlotta Nani"
   pronouns         : "she/her"
-  bio              : "Applied Economist, working on development and social issues. PhD from the Geneva Graduate Institute."
+  bio              : "Applied economist, working on development and social issues. PhD in Economics from the Geneva Graduate Institute."
   location         : "Geneva, Switzerland"
   email            : "carlotta.nani@gmail.com"
 
