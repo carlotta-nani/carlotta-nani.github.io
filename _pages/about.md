@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied economist working on development and social issues. I use experimental methods, survey data and administrative datasets to study women and under-represented groups' participation in decision-making, labour markets, financial services and innovation, and what can close those gaps.
+I am an applied economist working on development and social issues. 
+I use experimental methods, survey data and administrative datasets to study women and under-represented groups' participation in decision-making, labour markets, financial services and innovation.
 
 I am currently an Economics Fellow in the [Innovation Economy Section](https://www.wipo.int/en/web/economics/innovation-economics-and-policy-design/index) of the Department for Economics and Data Analytics at the World Intellectual Property Organization (WIPO), where I lead research on women’s participation in innovation and develop statistical indicators to measure it.
 
