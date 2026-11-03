@@ -15,10 +15,10 @@ main:
     url: /teaching/    
     
   - title: "Fieldwork"
-    url: /portfolio/
+    url: /fieldwork/
         
   - title: "Blog posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/
