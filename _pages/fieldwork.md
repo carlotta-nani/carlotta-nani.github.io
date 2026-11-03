@@ -5,11 +5,11 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-Since 2019, I have been travelling to Bangladesh to conduct fieldwork activities.
+During my PhD, I often travelled to Bangladesh to conduct fieldwork activities.
 
-Between June and August 2022, with the support of [dRi Bangladesh](https://dri-int.org/), I implemented a lab experiment in the field to study how gender stereotypes shape intra-household dynamics.
+Between June and August 2022, with the support of [dRi Bangladesh](https://dri-int.org/), I implemented my own project in the field to study how gender stereotypes shape intra-household dynamics.
 
-Here are some of the pictures I took during these trips.
+Here are some of the pictures I took during my trips.
 
 ## Landscapes and people
 
