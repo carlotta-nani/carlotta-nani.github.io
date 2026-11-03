@@ -13,4 +13,6 @@ Currently, I am an Economics Fellow in the Innovation Economy Section at the Dep
 
 
 
-I have a PhD in economics from the Geneva Graduate Institute. In my doctoral research, I use a lab experiment to investigate how gender stereotypes about women's skills shape intra-household dynamics, in rural Bangladesh. Prior to joining WIPO, I held research positions at the Centre for Finance and Development, the World Trade Organization, the International Labor Organization, and the German Institute for Economic Research (DIW Berlin).
+I have a PhD in economics from the Geneva Graduate Institute. In my doctoral research, I use a lab experiment to investigate how gender stereotypes about women's skills shape intra-household dynamics, in rural Bangladesh. 
+
+Prior to joining WIPO, I held research positions at the Centre for Finance and Development, the World Trade Organization, the International Labor Organization, and the German Institute for Economic Research (DIW Berlin).
