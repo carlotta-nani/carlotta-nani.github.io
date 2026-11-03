@@ -4,26 +4,27 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-I am an applied economist working on gender, innovation and development. My
-research uses randomised controlled trials, survey data and large administrative
-datasets to study how women and under-represented groups participate in
-innovation, enterprise and intellectual property.
 
 ## Education
 
 * **PhD in Economics**, Geneva Graduate Institute (IHEID), 2025
   *Summa Cum Laude.* Supervisor: Prof. Lore Vandewalle
+
 * **Visiting Scholar in Public Policy**, New York University, 2023
   Supervisor: Prof. Jonathan Morduch
+
 * **MSc in International Economics**, Geneva Graduate Institute (IHEID), 2017
+
 * **BSc in Economics and Finance**, University of Bologna, 2015
 
 ## Experience
 
-**Economics Fellow**, Gender and Innovation, Innovation Economy Section, World Intellectual Property
+**Economics Fellow**
+Gender and Innovation, Innovation Economy Section, World Intellectual Property
 Organization (WIPO), Geneva — 2024–present
 
-**PhD Research Fellow**, Center for Finance and Development, Geneva Graduate
+**PhD Research Fellow**
+Center for Finance and Development, Geneva Graduate
 Institute (IHEID) — 2019–2024
 
 **Earlier positions**
@@ -42,4 +43,4 @@ Institute (IHEID) — 2019–2024
 * **Languages:** Italian (native), English (C2), French (C1), German (basic)
 * **Technical:** Stata, R, Python, SQL, MS Office, Flourish, Datawrapper, 
 
-[📄 Download full CV (PDF)](/files/carlotta-nani-cv.pdf){: .btn .btn--primary}
+[📄 Download full CV (PDF)](/files/carlotta-nani-cv.pdf){}
