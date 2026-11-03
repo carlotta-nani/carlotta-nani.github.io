@@ -14,3 +14,8 @@ I am currently an Economics Fellow in the [Innovation Economy Section](https://w
 I hold a PhD in Economics from the [Geneva Graduate Institute](https://www.graduateinstitute.ch/). In my doctoral research, I use an RCT to investigate how gender stereotypes about women’s skills shape intra-household dynamics, in rural Bangladesh.
 
 Prior to joining WIPO, I worked at the [Centre for Finance and Development](https://www.graduateinstitute.ch/cfd), the World Trade Organization, the International Labor Organization, and the German Institute for Economic Research (DIW Berlin).
+
+<style>
+  /* "Welcome!" title in pink (home page only) */
+  .page__title { color: #eb9999; }
+</style>
