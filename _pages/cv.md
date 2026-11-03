@@ -7,29 +7,26 @@ author_profile: true
 
 ## Education
 
-* **PhD in Economics**, Geneva Graduate Institute (IHEID), 2025
+## Education
+
+* **PhD in Economics**, Geneva Graduate Institute, (2018–2025)<br>
   *Summa Cum Laude.* Supervisor: Prof. Lore Vandewalle
-
-* **Visiting Scholar in Public Policy**, New York University, 2023
+* **Visiting Scholar in Public Policy**, New York University, (2023)<br>
   Supervisor: Prof. Jonathan Morduch
-
-* **MSc in International Economics**, Geneva Graduate Institute (IHEID), 2017
-
-* **BSc in Economics and Finance**, University of Bologna, 2015
+* **MSc in International Economics**, Geneva Graduate Institute, (2015–2017)
+* **BSc in Economics and Finance**, University of Bologna, (2011–2015)
 
 ## Experience
 
-**Economics Fellow**
-Gender and Innovation, Innovation Economy Section, World Intellectual Property
-Organization (WIPO), Geneva — 2024–present
+**Economics Fellow**<br>
+Gender and Innovation, Innovation Economy Section, World Intellectual Property Organization (2024–present)
 
-**PhD Research Fellow**
-Center for Finance and Development, Geneva Graduate
-Institute (IHEID) — 2019–2024
+**PhD Research Fellow**<br>
+Center for Finance and Development, Geneva Graduate Institute (2019–2024)
 
 **Earlier positions**
-* Policy Intern, Gender, Equality and Diversity Branch, International Labour Organization (2018) 
-* Research Assistant, Economic Research and Statistics Division, World Trade Organization (2017) 
+* Policy Intern, Gender, Equality and Diversity Branch, International Labour Organization (2018)
+* Research Assistant, Economic Research and Statistics Division, World Trade Organization (2017)
 * Research Assistant, Security and Development Department, DIW Berlin (2016)
 
 ## Affiliations and professional roles
