@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an I am an applied economist interested in social and development issues. My research focuses on drivers and potential solutions to persisting gender gaps in decision-making, labour force participation and financial inclusion. 
+I am an applied economist working on development and social issues. I use experimental methods, survey data and large administrative datasets to study what keeps women and under-represented groups out of decision-making, labour markets, financial services and innovation, and what can close those gaps.
 
-Currently, I am an Economics Fellow in the Innovation Economy Section at the Department of Economics and Data Analytics at WIPO. My research and work focus on the structural drivers of gender inequality and its impact on economic development. At the moment I am working on statistical indicators to measure women's participation in innovation. 
+I am currently an Economics Fellow in the [Innovation Economy Section](https://www.wipo.int/en/web/economics/innovation-economics-and-policy-design/index) of the Department for Economics and Data Analytics at the World Intellectual Property Organization (WIPO), where I lead research on women’s participation in innovation and develop statistical indicators to measure it.
 
+I hold a PhD in Economics from the Geneva Graduate Institute. In my doctoral research, I use an RCT to investigate how gender stereotypes about women’s skills shape intra-household dynamics, in rural Bangladesh.
 
-
-I have a PhD in economics from the Geneva Graduate Institute. In my doctoral research, I use a lab experiment to investigate how gender stereotypes about women's skills shape intra-household dynamics, in rural Bangladesh. 
-
-Prior to joining WIPO, I held research positions at the Centre for Finance and Development, the World Trade Organization, the International Labor Organization, and the German Institute for Economic Research (DIW Berlin).
+Prior to joining WIPO, I worked at the Centre for Finance and Development, the World Trade Organization, the International Labor Organization, and the German Institute for Economic Research (DIW Berlin).
