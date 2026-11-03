@@ -19,10 +19,10 @@ repository               : "carlotta-nani/carlotta-nani.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Carlotta Nani"
   pronouns         : "she/her"
-  bio              : "Economist. PhD from the Geneva Graduate Institute."
+  bio              : "Applied Economist, working on development and social issues. PhD from the Geneva Graduate Institute."
   location         : "Geneva, Switzerland"
   email            : "carlotta.nani@gmail.com"
 
@@ -34,17 +34,16 @@ author:
   # Social media
   linkedin         : "carlotta-nani"
   
+  # Publication Category - The following the list of publication categories and their headings
+  publication_category:
+    chapters:
+      title: 'Book Chapters'
+    working:
+      title: 'Working Papers'
+    reports:
+      title: 'Reports'
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  manuscripts:
-    title: 'Journal Articles'
-  chapters:
-    title: 'Book Chapters'
-  reports:
-    title: 'Policy Reports & Briefs'
-  working:
-    title: 'Working Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
