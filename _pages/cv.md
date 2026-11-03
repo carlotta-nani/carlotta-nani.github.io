@@ -38,7 +38,7 @@ Center for Finance and Development, Geneva Graduate Institute (2019–2024)
 * Affiliate, Rare Voices in Economics (2020–2024)
 
 ## Languages and skills
-* **Languages:** Italian (native), English (C2), French (C1), German (basic)
-* **Technical:** Stata, R, Python, SQL, MS Office, Flourish, Datawrapper, 
+* **Languages:** Italian (native), English, French, German
+* **Technical:** Stata, R, Python, SQL, MS Office, Flourish, Datawrapper
 
 [📄 Download full CV (PDF)](/files/carlotta-nani-cv.pdf)
