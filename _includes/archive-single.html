@@ -50,14 +50,7 @@
     <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}<p><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></p></div>
-    {% endif %}
-    
-    {% include /components/citations.html
-        citation=post.citation
-        paperurl=post.paperurl
-        slidesurl=post.slidesurl
-        bibtexurl=post.bibtexurl
-    %}    
+    {% endif %}  
 
   </article>
 </div>
